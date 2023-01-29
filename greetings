@@ -53,14 +53,5 @@ body{
 
     document.getElementById('lbl').innerHTML =
         greet+="Adelaide "`<div id="date"> It's ${date}</div>`;
- .card {
-    padding: 10px 25px 10px 25px;
-    border-radius: 10px;
-    background: #553c4e;
-    width: 85vw;
-    color: #fff;
-    display: inline-block;
-    box-shadow: 2px 2px 1px 0px #330835;
-}
 </script> 
 </html>
